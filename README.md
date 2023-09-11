@@ -2,6 +2,7 @@
 using alan AI (free trial)
 1. testing and trying alan AI voice detection.
 2. conneting this to hackathon idea
+3. Text to Action AI --> (https://alan.app/)
 
 ## Getting Started with Create React App
 
