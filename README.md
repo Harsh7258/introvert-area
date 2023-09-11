@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# voice AI 
+using alan AI (free trial)
+1. testing and trying alan AI voice detection.
+2. conneting this to hackathon idea
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
